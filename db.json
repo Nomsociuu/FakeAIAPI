@@ -1,0 +1,291 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "title": "General Knowledge Quiz",
+      "userid": "user123"
+    },
+    {
+      "id": 2,
+      "title": "Science Trivia Challenge",
+      "userid": "user123"
+    },
+    {
+      "id": 3,
+      "title": "History Quiz",
+      "userid": "user123"
+    }
+  ],
+  "users": [
+    {
+      "id": "user123",
+      "username": "user",
+      "password": "123"
+    },
+    {
+      "id": "fedf01b0-fc50-4794-a328-b64c6850274f",
+      "username": "admin",
+      "password": "123"
+    },
+    {
+      "id": "6e44c536-322c-45a7-a89b-6f4ef03de94c",
+      "username": "user",
+      "password": "456"
+    }
+  ],
+  "userProgress": [
+    {
+      "id": 1,
+      "userId": "user123",
+      "quizId": 1,
+      "isSubmitted": true,
+      "score": 2,
+      "userAnswers": {
+        "0": "Paris",
+        "1": "Jupiter"
+      }
+    }
+  ],
+  "questions": [
+    {
+      "examId": 1,
+      "question": "What is the capital of France?",
+      "choices": ["Paris", "London", "Berlin", "Madrid"],
+      "answer": "Paris"
+    },
+    {
+      "examId": 1,
+      "question": "What is the largest planet in our solar system?",
+      "choices": ["Earth", "Saturn", "Jupiter", "Mars"],
+      "answer": "Jupiter"
+    },
+    {
+      "examId": 1,
+      "question": "Which element has the chemical symbol 'O'?",
+      "choices": ["Oxygen", "Gold", "Hydrogen", "Carbon"],
+      "answer": "Oxygen"
+    },
+    {
+      "examId": 1,
+      "question": "Which language is primarily spoken in Brazil?",
+      "choices": ["Spanish", "Portuguese", "French", "English"],
+      "answer": "Portuguese"
+    },
+    {
+      "examId": 1,
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "choices": ["William Shakespeare", "Charles Dickens", "Mark Twain", "Jane Austen"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "examId": 1,
+      "question": "Which continent is Egypt in?",
+      "choices": ["Asia", "Europe", "Africa", "Australia"],
+      "answer": "Africa"
+    },
+    {
+      "examId": 1,
+      "question": "What is 5 x 6?",
+      "choices": ["30", "20", "25", "35"],
+      "answer": "30"
+    },
+    {
+      "examId": 1,
+      "question": "Who painted the Mona Lisa?",
+      "choices": ["Michelangelo", "Leonardo da Vinci", "Picasso", "Van Gogh"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "examId": 1,
+      "question": "How many continents are there?",
+      "choices": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "examId": 1,
+      "question": "Which ocean is the largest?",
+      "choices": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "answer": "Pacific"
+    },
+    {
+      "examId": 1,
+      "question": "What color do you get by mixing red and white?",
+      "choices": ["Pink", "Purple", "Orange", "Brown"],
+      "answer": "Pink"
+    },
+    {
+      "examId": 1,
+      "question": "Which planet is known as the Red Planet?",
+      "choices": ["Venus", "Earth", "Mars", "Jupiter"],
+      "answer": "Mars"
+    },
+    {
+      "examId": 1,
+      "question": "How many legs does a spider have?",
+      "choices": ["6", "8", "10", "12"],
+      "answer": "8"
+    },
+    {
+      "examId": 1,
+      "question": "What is the square root of 81?",
+      "choices": ["7", "8", "9", "10"],
+      "answer": "9"
+    },
+    {
+      "examId": 1,
+      "question": "What gas do plants absorb from the atmosphere?",
+      "choices": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "examId": 1,
+      "question": "Which country is famous for sushi?",
+      "choices": ["China", "Korea", "Thailand", "Japan"],
+      "answer": "Japan"
+    },
+    {
+      "examId": 1,
+      "question": "Which instrument has black and white keys?",
+      "choices": ["Guitar", "Violin", "Piano", "Drum"],
+      "answer": "Piano"
+    },
+    {
+      "examId": 1,
+      "question": "What do bees make?",
+      "choices": ["Milk", "Honey", "Silk", "Sugar"],
+      "answer": "Honey"
+    },
+    {
+      "examId": 1,
+      "question": "How many hours are in a day?",
+      "choices": ["12", "24", "36", "48"],
+      "answer": "24"
+    },
+    {
+      "examId": 1,
+      "question": "Which shape has 3 sides?",
+      "choices": ["Square", "Triangle", "Circle", "Rectangle"],
+      "answer": "Triangle"
+    },
+    {
+      "examId": 1,
+      "question": "Which mammal lays eggs?",
+      "choices": ["Whale", "Bat", "Platypus", "Kangaroo"],
+      "answer": "Platypus"
+    },
+    {
+      "examId": 1,
+      "question": "What is the hardest natural substance?",
+      "choices": ["Iron", "Diamond", "Gold", "Steel"],
+      "answer": "Diamond"
+    },
+    {
+      "examId": 1,
+      "question": "Which country has the Eiffel Tower?",
+      "choices": ["Germany", "Italy", "France", "UK"],
+      "answer": "France"
+    },
+    {
+      "examId": 1,
+      "question": "Which is the largest mammal?",
+      "choices": ["Elephant", "Blue Whale", "Rhino", "Giraffe"],
+      "answer": "Blue Whale"
+    },
+    {
+      "examId": 1,
+      "question": "What is H2O commonly known as?",
+      "choices": ["Oxygen", "Salt", "Water", "Hydrogen"],
+      "answer": "Water"
+    },
+    {
+      "examId": 1,
+      "question": "What part of the body pumps blood?",
+      "choices": ["Lungs", "Heart", "Liver", "Kidneys"],
+      "answer": "Heart"
+    },
+    {
+      "examId": 1,
+      "question": "What is the boiling point of water?",
+      "choices": ["100°C", "50°C", "0°C", "150°C"],
+      "answer": "100°C"
+    },
+    {
+      "examId": 1,
+      "question": "Which country is shaped like a boot?",
+      "choices": ["Spain", "Italy", "India", "Mexico"],
+      "answer": "Italy"
+    },
+    {
+      "examId": 1,
+      "question": "What currency is used in Japan?",
+      "choices": ["Won", "Yuan", "Yen", "Dollar"],
+      "answer": "Yen"
+    },
+    {
+      "examId": 1,
+      "question": "What do you call a baby cat?",
+      "choices": ["Cub", "Puppy", "Kitten", "Chick"],
+      "answer": "Kitten"
+    },
+    {
+      "examId": 1,
+      "question": "What is the first element on the periodic table?",
+      "choices": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
+      "answer": "Hydrogen"
+    },
+    {
+      "examId": 1,
+      "question": "Which organ helps you breathe?",
+      "choices": ["Heart", "Liver", "Lungs", "Brain"],
+      "answer": "Lungs"
+    },
+    {
+      "examId": 1,
+      "question": "What is the tallest animal in the world?",
+      "choices": ["Elephant", "Giraffe", "Kangaroo", "Lion"],
+      "answer": "Giraffe"
+    },
+    {
+      "examId": 1,
+      "question": "What kind of animal is Nemo in 'Finding Nemo'?",
+      "choices": ["Tuna", "Shark", "Clownfish", "Goldfish"],
+      "answer": "Clownfish"
+    },
+    {
+      "examId": 1,
+      "question": "How many minutes are in an hour?",
+      "choices": ["30", "45", "60", "90"],
+      "answer": "60"
+    },
+    {
+      "examId": 1,
+      "question": "What color is a banana?",
+      "choices": ["Green", "Red", "Yellow", "Purple"],
+      "answer": "Yellow"
+    },
+    {
+      "examId": 1,
+      "question": "What is 100 divided by 10?",
+      "choices": ["5", "10", "20", "15"],
+      "answer": "10"
+    },
+    {
+      "examId": 1,
+      "question": "What animal goes 'moo'?",
+      "choices": ["Sheep", "Cow", "Pig", "Horse"],
+      "answer": "Cow"
+    },
+    {
+      "examId": 1,
+      "question": "What is the opposite of 'hot'?",
+      "choices": ["Cold", "Warm", "Dry", "Fire"],
+      "answer": "Cold"
+    },
+    {
+      "examId": 1,
+      "question": "Which season comes after summer?",
+      "choices": ["Winter", "Spring", "Autumn", "Monsoon"],
+      "answer": "Autumn"
+    }
+  ]
+}
