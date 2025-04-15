@@ -226,66 +226,6 @@
       "question": "What do you call a baby cat?",
       "choices": ["Cub", "Puppy", "Kitten", "Chick"],
       "answer": "Kitten"
-    },
-    {
-      "examId": 1,
-      "question": "What is the first element on the periodic table?",
-      "choices": ["Oxygen", "Helium", "Hydrogen", "Carbon"],
-      "answer": "Hydrogen"
-    },
-    {
-      "examId": 1,
-      "question": "Which organ helps you breathe?",
-      "choices": ["Heart", "Liver", "Lungs", "Brain"],
-      "answer": "Lungs"
-    },
-    {
-      "examId": 1,
-      "question": "What is the tallest animal in the world?",
-      "choices": ["Elephant", "Giraffe", "Kangaroo", "Lion"],
-      "answer": "Giraffe"
-    },
-    {
-      "examId": 1,
-      "question": "What kind of animal is Nemo in 'Finding Nemo'?",
-      "choices": ["Tuna", "Shark", "Clownfish", "Goldfish"],
-      "answer": "Clownfish"
-    },
-    {
-      "examId": 1,
-      "question": "How many minutes are in an hour?",
-      "choices": ["30", "45", "60", "90"],
-      "answer": "60"
-    },
-    {
-      "examId": 1,
-      "question": "What color is a banana?",
-      "choices": ["Green", "Red", "Yellow", "Purple"],
-      "answer": "Yellow"
-    },
-    {
-      "examId": 1,
-      "question": "What is 100 divided by 10?",
-      "choices": ["5", "10", "20", "15"],
-      "answer": "10"
-    },
-    {
-      "examId": 1,
-      "question": "What animal goes 'moo'?",
-      "choices": ["Sheep", "Cow", "Pig", "Horse"],
-      "answer": "Cow"
-    },
-    {
-      "examId": 1,
-      "question": "What is the opposite of 'hot'?",
-      "choices": ["Cold", "Warm", "Dry", "Fire"],
-      "answer": "Cold"
-    },
-    {
-      "examId": 1,
-      "question": "Which season comes after summer?",
-      "choices": ["Winter", "Spring", "Autumn", "Monsoon"],
-      "answer": "Autumn"
     }
   ]
 }
