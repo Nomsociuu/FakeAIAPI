@@ -1,20 +1,75 @@
 {
   "quizzes": [
     {
-      "id": 1,
-      "title": "General Knowledge Quiz",
-      "userid": "user123"
-    },
-    {
-      "id": 2,
-      "title": "Science Trivia Challenge",
-      "userid": "user123"
-    },
-    {
-      "id": 3,
-      "title": "History Quiz",
-      "userid": "user123"
-    }
+      "quizId": "3",
+      "userId": 4,
+      "title": "Intern Java",
+      "description": "",
+      "createdAt": "0001-01-01T00:00:00"
+  },
+  {
+      "quizId": "4",
+      "userId": 4,
+      "title": "Intern Java",
+      "description": "",
+      "createdAt": "0001-01-01T00:00:00"
+  },
+  {
+      "quizId": "6",
+      "userId": 4,
+      "title": "Intern Java",
+      "description": "",
+      "createdAt": "0001-01-01T00:00:00"
+  },
+  {
+      "quizId": "7",
+      "userId": 4,
+      "title": "Intern Java",
+      "description": "",
+      "createdAt": "0001-01-01T00:00:00"
+  },
+  {
+      "quizId": "8",
+      "userId": 4,
+      "title": "Intern Java",
+      "description": "",
+      "createdAt": "0001-01-01T00:00:00"
+  },
+  {
+      "quizId": "9",
+      "userId": 4,
+      "title": "Intern Java",
+      "description": "",
+      "createdAt": "0001-01-01T00:00:00"
+  },
+  {
+      "quizId": "10",
+      "userId": 4,
+      "title": "Intern Java",
+      "description": "",
+      "createdAt": "0001-01-01T00:00:00"
+  },
+  {
+      "quizId": "11",
+      "userId": 4,
+      "title": "Intern Java",
+      "description": "",
+      "createdAt": "0001-01-01T00:00:00"
+  },
+  {
+      "quizId": "12",
+      "userId": 4,
+      "title": "Intern Python",
+      "description": "",
+      "createdAt": "0001-01-01T00:00:00"
+  },
+  {
+      "quizId": "13",
+      "userId": 4,
+      "title": "Intern Python",
+      "description": "",
+      "createdAt": "0001-01-01T00:00:00"
+  }
   ],
   "users": [
     {
